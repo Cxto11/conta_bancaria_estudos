@@ -42,3 +42,6 @@ Aprendizado arquivo(conta_bancaria_OO):
     -Encapsulamento de código
     -Encapsulamento da manipulação dos atributos nos métodos
     -Coesão do código
+    -Métodos de leitura dos atributos, os getters
+    -Métodos de modifição dos atributos, os setters
+    -Propriedades
